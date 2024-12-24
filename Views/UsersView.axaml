@@ -13,5 +13,24 @@
       <RowDefinition Height="auto" />
       <RowDefinition Height="*" />
     </Grid.RowDefinitions>
+
+    <StackPanel HorizontalAligment="Center" Orientation="Horizontal">
+      <Button
+        x:Name="AddButton"
+        Click="AddButton_Click"
+        Content="Добавить" />
+        <Button
+        x:Name="AddButton"
+        Click="AddButton_Click"
+        Content="Добавить" />
+        <Button
+        x:Name="AddButton"
+        Click="AddButton_Click"
+        Content="Добавить" />
+        <Button
+        x:Name="AddButton"
+        Click="AddButton_Click"
+        Content="Добавить" />
+    </StackPanel>
   </Grid>
 </UserControl>
