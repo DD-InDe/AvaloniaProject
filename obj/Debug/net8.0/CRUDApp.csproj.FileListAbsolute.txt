@@ -146,3 +146,4 @@ C:\Users\alena\OneDrive\Desktop\Projects\CRUDApp\obj\Debug\net8.0\refint\Avaloni
 C:\Users\alena\OneDrive\Desktop\Projects\CRUDApp\obj\Debug\net8.0\CRUDApp.csproj.Up2Date
 C:\Users\alena\OneDrive\Desktop\Projects\CRUDApp\obj\Debug\net8.0\CRUDApp.genruntimeconfig.cache
 C:\Users\alena\OneDrive\Desktop\Projects\CRUDApp\obj\Debug\net8.0\ref\CRUDApp.dll
+C:\Users\alena\OneDrive\Desktop\Projects\CRUDApp\obj\Debug\net8.0\CRUDApp.sourcelink.json

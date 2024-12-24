@@ -6,6 +6,8 @@ namespace CRUDApp;
 
 public partial class App : Application
 {
+    public static MainWindow MainWindow;
+
     public override void Initialize()
     {
         AvaloniaXamlLoader.Load(this);
